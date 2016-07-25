@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExemploApiLocation</string>
+    <string name="hello_world" >hello_world</string>
+
+    <string name="title">Example Location API</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_location">UpdateLocationActivity</string>
+    <string name="title_activity_address_location">AddressLocationActivity</string>
+    <string name="title_activity_last_location">LastLocationActivity</string>
+</resources>
